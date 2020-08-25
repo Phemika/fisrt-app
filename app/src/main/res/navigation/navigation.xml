@@ -21,7 +21,7 @@
     <fragment
         android:id="@+id/contactFragment"
         android:name="com.example.fisrtapp.contactFragment"
-        android:label="About"
+        android:label="@string/contact"
         tools:layout="@layout/fragment_contact" />
 
 </navigation>
