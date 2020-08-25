@@ -23,5 +23,10 @@
         android:name="com.example.fisrtapp.contactFragment"
         android:label="@string/contact"
         tools:layout="@layout/fragment_contact" />
+    <activity
+        android:id="@+id/addListActivity"
+        android:name="com.example.fisrtapp.addListActivity"
+        android:label="addListActivity"
+        tools:layout="@layout/activity_add_list"/>
 
 </navigation>
